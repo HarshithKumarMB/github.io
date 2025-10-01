@@ -52,5 +52,3 @@ Currently applying my expertise toward **PhD opportunities** and **cutting-edge 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
-
